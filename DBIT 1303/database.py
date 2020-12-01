@@ -16,6 +16,7 @@ def create_server_connection(host_name, user_name, user_password):
         print(f"Error: '{err}'")
 
     return connection
+    
 
 
 #function to perform every query
